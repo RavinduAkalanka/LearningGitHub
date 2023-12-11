@@ -1,4 +1,5 @@
 # LearningGitHub
 To learn Git Hub
 
-Hello Everyone.!
+I'm Ravindu Akalanka
+I'm from Rathnapura
